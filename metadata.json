@@ -1,0 +1,6 @@
+{
+  "name": "Zanta PropertyAI",
+  "description": "Modern AI-native East African real estate platform by Zanta Technologies. Discover, finance, build, furnish, buy, rent, and manage properties with Gemini-powered intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
